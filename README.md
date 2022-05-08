@@ -1,1 +1,3 @@
-# John8160-cse210-03
+# puzzle game
+# John Munina
+# johnmunina8160@gmail.com
